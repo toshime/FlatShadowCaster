@@ -1,5 +1,7 @@
 # FlatShadowCaster
 
+![flat_shadow_caster_demo](https://github.com/user-attachments/assets/0f900e78-0d29-4c54-9f6d-2a4ced0c2905)
+
 ## 概要
 
 FlatShadowCaster は、カメラベースでリアルタイムにスプライトの平面的な影を生成する Unity コンポーネントです。
